@@ -4,3 +4,6 @@
   font-family: my;
   src: url(/news-homepage-main/assets/fonts/Inter-VariableFont_slnt\,wght.ttf);
 }
+body{
+  margin: 50px;
+}
