@@ -5,11 +5,31 @@
   src: url(/news-homepage-main/assets/fonts/Inter-VariableFont_slnt\,wght.ttf);
 }
 body{
-  margin: 50px;
-  display: flex;
-  width: 100%;
+  padding: 0;
+  margin: 50px 50px;
 }
-table{
-  width: 100%;
-  height: 50%;
+nav{
+  position: sticky;
+  margin: 30px 10px;
+  z-index: 1;
+  display: flex;
+}
+.nav-menu{
+  flex: 1;
+  text-align: right;
+}
+.nav-menu ul li{
+  list-style: none;
+  text-align: right;
+  display: inline-block;
+  margin: 5px;
+}
+.nav-menu ul li a {
+  text-decoration: none;
+}
+.nav-menu ul li a:hover{
+  color: brown;
+}
+.nav-menu ul li a:active{
+  color: greenyellow;
 }
