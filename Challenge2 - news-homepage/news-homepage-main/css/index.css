@@ -33,3 +33,49 @@ nav{
 .nav-menu ul li a:active{
   color: greenyellow;
 }
+.main-divi{
+  display: flex;
+  width: 100%;
+}
+.main-divi .container .maind img{
+  width: 100%;
+  min-height: 6rem;
+  margin-bottom: 20px;
+  /* flex: 1; */
+}
+.container{
+  width: 100%;
+  position: relative;
+}
+.rightd{
+  min-height: 100px;
+  margin-right: 10px;
+  width: 50%;
+}
+.leftd{
+  min-height: 100px;
+  width: 100%;
+}
+.horizontal{
+  display: flex;
+  flex: auto;
+  z-index: 1;
+}
+.otherd{
+  background-color: black;
+  color: white;
+  align-content: center;
+  margin: 2px 2px;
+  width: 40%;
+  height: 70vh;
+  margin-left: 20px;
+}
+.bottom-nav{
+  display: flex;
+  width: 100%;
+  font-size: 12px;
+  justify-content: space-between;
+}
+.bottom-nav img{
+  height: 80px;
+}
