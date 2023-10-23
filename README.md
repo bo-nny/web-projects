@@ -3,7 +3,9 @@
 
 
 # web-projects
-[Lets get started](https://giphy.com/gifs/NetflixisaJoke-netflix-iglesias-mr-f6z5TkrTIBZILYOd1t)
+*Lets get started*
+
+<a href = "https://giphy.com/gifs/NetflixisaJoke-netflix-iglesias-mr-f6z5TkrTIBZILYOd1t"></a>
 
 **Tables of Contents**
 1. [challenge1](#challenge-1)
