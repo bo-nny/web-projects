@@ -1,4 +1,7 @@
+[Github Badge](https://img.shields.io/github/license/bo-nny/web-projects?logoColor=red&labelColor=green&color=blue)
+
 # web-projects
+
 **Tables of Contents**
 1. [challenge1](#challenge-1)
    1.  home screen image 
