@@ -1,4 +1,4 @@
-[Github Badge](https://img.shields.io/github/license/bo-nny/web-projects?logoColor=red&labelColor=green&color=blue)
+![Github Badge](https://img.shields.io/github/license/bo-nny/web-projects?logoColor=red&labelColor=green&color=blue)
 
 # web-projects
 
