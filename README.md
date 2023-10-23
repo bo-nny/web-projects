@@ -3,7 +3,7 @@
 
 
 # web-projects
-![Lets get started](https://giphy.com/stories/world-mental-health-day-d4191daf-e1cd)
+[Lets get started](https://giphy.com/gifs/NetflixisaJoke-netflix-iglesias-mr-f6z5TkrTIBZILYOd1t)
 
 **Tables of Contents**
 1. [challenge1](#challenge-1)
