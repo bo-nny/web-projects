@@ -15,10 +15,13 @@ challenge 1 has a form design designed with css and java script
 ![Home screen image](./Challenge1MultiStepForm/assets/images/bg-sidebar-desktop.svg)
 <br>the image above <br> shows the home screem image.
 
-> ### Do you like it
-    - [x] liked Very much 
-    - [ ] dislike 
-> 
+>this is  a block of text
+>
+
+ ### Do you like it
+- [x] liked Very much 
+- [ ] dislike 
+ 
 
 
 
