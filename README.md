@@ -12,14 +12,13 @@
    2.  elements in challenge1
 3. [Challenge 2]()
 
+---
 
 **Note:**
-   - You can run the code and re - edit using Vscode '''code . in you command prompt
+   - You can run the code and re - edit using Vscode.
 
 ### Challenge 1
 challenge 1 has a form design designed with css and java script
-
----
 
 #### *home screen image*
 
