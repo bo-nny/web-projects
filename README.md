@@ -5,7 +5,7 @@
 # web-projects
 *Lets get started*
 
-<a href = "https://giphy.com/gifs/NetflixisaJoke-netflix-iglesias-mr-f6z5TkrTIBZILYOd1t"></a>
+![giphy](https://github.com/bo-nny/web-projects/assets/77052274/125dd7f3-73b2-4799-8d43-420030e567db)
 
 **Tables of Contents**
 1. [challenge1](#challenge-1)
