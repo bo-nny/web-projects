@@ -1,7 +1,7 @@
 # web-projects
 **Tables of Contents**
 1. challenge1
-   1.  [form design in challenge1](#challenge 1)
+   1.  [form design in challenge1](#challenge-1)
    2.  elements in challenge1
 3. challenge1
 
