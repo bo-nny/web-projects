@@ -17,7 +17,7 @@ challenge 1 has a form design designed with css and java script
 
 > ### Do you like it
     - [x] liked Very much 
-    - [] dislike 
+    - [ ] dislike 
 > 
 
 
