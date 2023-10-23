@@ -19,7 +19,7 @@ challenge 1 has a form design designed with css and java script
 >
 
  ### Do you like it
-- [x] liked Very much 
+- [ ] liked Very much 
 - [ ] dislike
 
 ## *Editor information*
@@ -29,8 +29,12 @@ challenge 1 has a form design designed with css and java script
 | Bonny | 0778067286 | Kampala |
 <details>
    <summary> For more information</summary>
+   
    More Skills 
+   
    - python programming.
+
+
    
 </details>
  
