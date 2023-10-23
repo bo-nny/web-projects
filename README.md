@@ -1,7 +1,7 @@
 # web-projects
 **Tables of Contents**
-1. challenge1
-   1.  [form design in challenge1](#challenge-1)
+1. [challenge1](#challenge-1)
+   1.  home screen image 
    2.  elements in challenge1
 3. challenge1
 
@@ -10,7 +10,9 @@ challenge 1 has a form design designed with css and java script
 
 ---
 
-#### Form design in challenge 1
+#### home screen image
+
+![Home screen image](./Challenge1MultiStepForm/assets/images/bg-sidebar-desktop.svg)
 
 
 
